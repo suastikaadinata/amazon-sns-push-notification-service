@@ -1,0 +1,16 @@
+{
+  "name": "aws-sns-push-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suastikaadinata",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.606.0",
+    "aws-sdk": "^2.1651.0",
+    "express": "^4.19.2"
+  }
+}
